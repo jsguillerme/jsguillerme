@@ -1,6 +1,13 @@
 ## Olá!! Eu sou o Guilherme Andrade 😉
 
- - Atualmente estou trabalhando na área de Quality Assurance em uma StartUp de Maracanaú/CE, no presente momento me encontro desenvolvendo a função de trainee de QA, no qual estou aprendendo um pouco mais sobre essa nova área e acredite, está sendo incrível, muita coisa para aprender todos os dias!! 
+ - Atualmente estou trabalhando na área de Quality Assurance em uma StartUp de Maracanaú/CE, no presente momento me encontro desenvolvendo a função de trainee de QA, no qual estou aprendendo um pouco mais sobre essa nova área e acredite, está sendo incrível, muita coisa para aprender todos os dias!!
+
+#### Realizando atividades como:
+- Testes Funcionais
+- Testes Exploratórios
+- Testes Automatizados com Cypress
+- Testes de Performance com K6
+
 
 <div style="display: inline-block">
   <a href="https://github.com/jsguillerme">
