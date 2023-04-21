@@ -5,7 +5,6 @@
 #### Realizando atividades como:
 - Testes Funcionais
 - Testes Exploratórios
-- 
 
 <div style="display: inline-block">
   <a href="https://github.com/jsguillerme">
