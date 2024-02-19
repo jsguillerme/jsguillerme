@@ -1,10 +1,13 @@
-## Olá!! Eu sou o Guilherme Andrade 😉
+## Olá!! Eu me chamo Guilherme Andrade 😉
 
- - Sou QA Jr III e me aventurando no mundo da programação, atualmente além das minhas atividades de QA, também costumo programar utilizando React, Typescript, TailwindCSS no FrontEnd.
+Seja bem-vindo ao meu Github, atualmente estou como desenvolvedor Junior na RD Station Conversas por TALLOS. 
 
-#### Realizando atividades como:
-- Testes Funcionais
-- Testes Exploratórios
+Minhas principais atribuições estão relacionadas ao desenvolvimento da plataforma RD Conversas, tanto na parte de correção de bugs, quanto de novas features. Minhas stacks utilizadas atualmente são:
+- NodeJS
+- VueJS
+- Docker
+- MongoDB
+- Kafka
 
 <div style="display: inline-block">
   <a href="https://github.com/jsguillerme">
@@ -24,4 +27,3 @@
 </div>
 
 ##
-
